@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+src-git packages https://github.com/InnoRoute/packages-1.git
+src-git luci https://github.com/InnoRoute/luci.git
+
+
+=======
 src-git packages https://git.openwrt.org/feed/packages.git
 src-git luci https://git.openwrt.org/project/luci.git
 src-git routing https://git.openwrt.org/feed/routing.git
@@ -8,3 +14,4 @@ src-git freifunk https://github.com/freifunk/openwrt-packages.git
 #src-git management https://github.com/openwrt-management/packages.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
+>>>>>>> upstream/master
